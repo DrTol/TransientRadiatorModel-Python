@@ -20,7 +20,7 @@ In memory of my mother Esma Tol and my father Bekir Tol.
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
-Tol, Hİ. pressure_loss_calculator-Python. DOI: 10.5281/zenodo.4167751. GitHub Repository 2020; https://github.com/DrTol/1D_Storage_Multi-Node_Model-Python
+Tol, Hİ. pressure_loss_calculator-Python. DOI: 10.5281/zenodo.4182580. GitHub Repository 2020; https://github.com/DrTol/TransientRadiatorModel-Python
 
 ## References
 - Pedersen,Theis Heidmann; Hedegaard, RasmusElbæk; Kristensen, KristianFogh; Gadgaard, Benjamin; Petersen, Steffen. The effect of including hydronic radiator dynamics in model predictive control of space heating. Energy and Buildings. Volume 183. pp 772 - 784.
