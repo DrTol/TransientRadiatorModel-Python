@@ -23,6 +23,6 @@ We would like to acknowledge all of the open-source minds in general for their w
 1. Tol, Hİ. pressure_loss_calculator-Python. DOI: 10.5281/zenodo.4167751. GitHub Repository 2020; https://github.com/DrTol/1D_Storage_Multi-Node_Model-Python
 
 ## References
-[1] Pedersen,Theis Heidmann; Hedegaard, RasmusElbæk; Kristensen, KristianFogh; Gadgaard, Benjamin; Petersen, Steffen. The effect of including hydronic radiator dynamics in model predictive control of space heating. Energy and Buildings. Volume 183. pp 772 - 784.
-[2] Brembilla, Christian. Transient model of a panel radiator. In: 14th Conference of International Building Performance Simulation Association. Hyderabad, India. December 7-9, 2015.
-[3] Teskeredzic, Armin; Blazevic, Rejhana. Transient Radiator Room Heating — Mathematical Model and Solution Algorithm. Building (MDPI). Volume 8. p 17.
+- Pedersen,Theis Heidmann; Hedegaard, RasmusElbæk; Kristensen, KristianFogh; Gadgaard, Benjamin; Petersen, Steffen. The effect of including hydronic radiator dynamics in model predictive control of space heating. Energy and Buildings. Volume 183. pp 772 - 784.
+- Brembilla, Christian. Transient model of a panel radiator. In: 14th Conference of International Building Performance Simulation Association. Hyderabad, India. December 7-9, 2015.
+- Teskeredzic, Armin; Blazevic, Rejhana. Transient Radiator Room Heating — Mathematical Model and Solution Algorithm. Building (MDPI). Volume 8. p 17.
