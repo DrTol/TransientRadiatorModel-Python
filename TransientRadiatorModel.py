@@ -67,7 +67,7 @@ T[0,:]=Ts       # boundary condition - Dirichlet
 
 for iT in range(1,Nt+1):
     for iS in range(1,n+1):
-        T[iS,iT]=D_c/D_t*(T[iS-1,iT-1]-T[iS,iT-1])-D_q/D_t*((T[iS,iT-1]-Ta)/LMTDn)**n+T[iS,iT-1]
+        T[iS,iT]=D_c/D_t*(T[iS-1,iT-1]-T[iS,iT-1])-D_q/D_t*((T[iS,iT-1]-Ta)/LMTDn)**n_r+T[iS,iT-1]
 
 """ Plotting the Results """
 # Outlet temperature from each element
@@ -84,20 +84,3 @@ plt.xlabel('Time [min]')
 plt.ylabel('Outlet Temperature [°C]')
 plt.legend()
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
