@@ -1,6 +1,8 @@
 # Transient Radiator Model (Python)
 The transient thermal behaviour of a hydronic space-heating radiator unit with a numerical solution algorithm in Python. See references given below for details. 
 
+Details given in: Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
+
 ## Table of Contents
 - [How2Use](README.md#how2use)
 - [License](README.md#License)
@@ -20,6 +22,8 @@ In memory of my mother Esma Tol and my father Bekir Tol.
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
+Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
+
 Tol, Hİ. TransientRadiatorModel-Python. DOI: 10.5281/zenodo.4182580. GitHub Repository 2020; https://github.com/DrTol/TransientRadiatorModel-Python
 
 ## References
