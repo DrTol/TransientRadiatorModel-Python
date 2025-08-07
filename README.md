@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # Transient Radiator Model (Python)
 The transient thermal behaviour of a hydronic space-heating radiator unit with a numerical solution algorithm in Python. See references given below for details. 
 
